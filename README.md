@@ -15,5 +15,4 @@ The feature of the assignment was implementation on pure JS without the use of l
 ![image](https://user-images.githubusercontent.com/86516649/208844999-6836bc45-72f8-4a3f-a339-91dbda28d8d2.png)
 
 ## Deployment
-
-
+## [Demo](https://marishka1997.github.io/tic-tac-toe/)
