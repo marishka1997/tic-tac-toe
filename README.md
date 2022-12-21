@@ -11,6 +11,8 @@ The feature of the assignment was implementation on pure JS without the use of l
 - JavaScript
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/86516649/208844936-c31bb89d-662a-46c0-9e14-a30faa334538.png)
+![image](https://user-images.githubusercontent.com/86516649/208844999-6836bc45-72f8-4a3f-a339-91dbda28d8d2.png)
 
 ## Deployment
 
